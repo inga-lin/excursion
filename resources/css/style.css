@@ -48,13 +48,13 @@ footer h5{
 
 @media only screen and (max-width:480px){
 	.iphone{
-		width: 60%;
+		width: 50%;
 	}
 
 	.foto img{
-		width: 40%;
+		width: 60%;
 	}
 	.logo img{
-		width: 50%;
+		width: 20%;
 	}
 }
