@@ -47,7 +47,7 @@ footer h5{
 }
 
 @media only screen and (max-width:480px){
-	.foto img, video{
+	.foto img, .iphone{
 		width: 60%;
 	}
 }
