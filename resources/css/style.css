@@ -47,11 +47,14 @@ footer h5{
 }
 
 @media only screen and (max-width:480px){
-	.foto img, .iphone{
+	.iphone{
 		width: 60%;
 	}
 
+	.foto img{
+		width: 40%;
+	}
 	.logo img{
-		width: 80%;
+		width: 50%;
 	}
 }
