@@ -71,6 +71,40 @@ footer h5{
 		width: 80%;
 	}
 
+	.logo img{
+		width: 5%;
+	}
+
+	h1{
+		font-size: 32px;
+	}
+
+	h3{
+		font-size: 22px;
+	}
+
+	h5{
+		font-size: 14px;
+	}
+
+	a{
+		font-size: 9px;
+	}
+
+}
+
+@media only screen and (min-width:480px) and (max-width:800px){
+	.foto img{
+		width: 80%;
+	}
+
+	.iphone video{
+		width: 50%;
+	}
+	.logo img{
+		width: 8%;
+	}
+
 	h1{
 		font-size: 42px;
 	}
@@ -79,10 +113,11 @@ footer h5{
 		font-size: 32px;
 	}
 
-}
+	h5{
+		font-size: 22px;
+	}
 
-@media only screen and (min-width:480px) and (max-width:800px){
-	.foto img{
-		width: 80%;
+	a{
+		font-size: 14px;
 	}
 }
