@@ -76,11 +76,11 @@ footer h5{
 	}
 
 	h1{
-		font-size: 32px;
+		font-size: 26px;
 	}
 
 	h3{
-		font-size: 22px;
+		font-size: 20px;
 	}
 
 	h5{
@@ -91,11 +91,15 @@ footer h5{
 		font-size: 9px;
 	}
 
+	footer h5{
+		font-size: 7px;
+	}
+
 }
 
 @media only screen and (min-width:480px) and (max-width:800px){
 	.foto img{
-		width: 80%;
+		width: 90%;
 	}
 
 	.iphone video{
@@ -106,18 +110,22 @@ footer h5{
 	}
 
 	h1{
-		font-size: 42px;
+		font-size: 36px;
 	}
 
 	h3{
-		font-size: 32px;
+		font-size: 28px;
 	}
 
 	h5{
-		font-size: 22px;
+		font-size: 20px;
 	}
 
 	a{
 		font-size: 14px;
+	}
+
+	footer h5{
+		font-size: 11px;
 	}
 }
